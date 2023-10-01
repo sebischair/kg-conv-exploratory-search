@@ -1,0 +1,247 @@
+[
+  {
+    "id": "5ec5fef9-10dd-4975-b111-2ae046fe99b2",
+    "data": [
+      {
+        "text": "Nur ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": true
+      },
+      {
+        "text": " Zusammenfassung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d5539549-b308-4e1f-914c-a3dfbd47f124",
+    "data": [
+      {
+        "text": "Ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "userDefined": true
+      },
+      {
+        "text": " Überblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9f2d568a-55f1-4a95-adcc-6876bd3fadf9",
+    "data": [
+      {
+        "text": "Nein einfach ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " kurze Zusammenfassung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "88c0fd67-169d-4df1-8ccb-276c0c904123",
+    "data": [
+      {
+        "text": "Lieber ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "userDefined": false
+      },
+      {
+        "text": " aktuellen Überblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "11bdbcf6-2fcf-407b-9f39-4e7fbdb03798",
+    "data": [
+      {
+        "text": "Tagesüberblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0247f6e9-589a-4759-9b6b-7ab7b144c61a",
+    "data": [
+      {
+        "text": "Zusammenfassung von Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1b2e6f5e-1894-4591-8b23-5feac8dbf463",
+    "data": [
+      {
+        "text": "Überblick bitte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "74ba8671-3497-4af1-bbba-e39f9996d8c4",
+    "data": [
+      {
+        "text": "Überblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e1ff40fa-bcc1-46ba-9b1b-4fe28a3b1580",
+    "data": [
+      {
+        "text": "Ich hätte gerne ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "userDefined": false
+      },
+      {
+        "text": " Nachrichten Überblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "32b7231c-3a1a-4d06-b484-3f860360ad7a",
+    "data": [
+      {
+        "text": "Lieber ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "userDefined": false
+      },
+      {
+        "text": " überblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f3ce3e4c-16bc-4a8e-9313-96e5de1f895c",
+    "data": [
+      {
+        "text": "Ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Zusammenfassung der Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9b730bb5-ae46-4aa4-8011-ec88a0476c02",
+    "data": [
+      {
+        "text": "Nein lieber ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "userDefined": false
+      },
+      {
+        "text": " kurzen überblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8d689f53-96a1-44fa-bdf6-8e803e1da716",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir einfach ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "userDefined": false
+      },
+      {
+        "text": " überblick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

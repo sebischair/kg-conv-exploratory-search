@@ -1,0 +1,65 @@
+[
+  {
+    "value": "inland",
+    "synonyms": [
+      "Inland",
+      "Binnenland",
+      "Deutschland"
+    ]
+  },
+  {
+    "value": "ausland",
+    "synonyms": [
+      "Ausland",
+      "Außenpolitik",
+      "international",
+      "Welt"
+    ]
+  },
+  {
+    "value": "wirtschaft",
+    "synonyms": [
+      "Wirtschaft",
+      "Finanzen",
+      "Ökonomie",
+      "Volkswirtschaft",
+      "Industrie",
+      "Geschäftswelt",
+      "Privatwirtschaft",
+      "Unternehmerschaft",
+      "Unternehmen"
+    ]
+  },
+  {
+    "value": "wissen",
+    "synonyms": [
+      "Wissen",
+      "Wissenschaft",
+      "Forschung",
+      "Forscher",
+      "Wissenschaftler"
+    ]
+  },
+  {
+    "value": "faktenfinder",
+    "synonyms": [
+      "Faktenfinder",
+      "Fakten",
+      "Faktenwissen"
+    ]
+  },
+  {
+    "value": "investigativ",
+    "synonyms": [
+      "Investigativ",
+      "Investigativer Journalismus",
+      "Investigativjournalismus"
+    ]
+  },
+  {
+    "value": "sport",
+    "synonyms": [
+      "sport"
+    ]
+  }
+]

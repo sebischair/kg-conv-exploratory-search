@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: rgb(15, 15, 15);
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 1rem;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.step {
+  max-width: 650px;
+}
+
+.number {
+  background-color: rgb(50, 50, 50);
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  color: white;
+  font-size: 1.3rem;
+}
+
+.title {
+  font-size: 1.2rem;
+}
+
+.text {
+  color: rgb(170, 170, 170);
+}
+
+.agent img {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 50%;
+  background-color: gainsboro;
+  padding: 40px;
+}
+
+.agent img:hover {
+  opacity: 70%;
+  cursor: pointer;
+}
+
+#speak {
+  text-align: center;
+}
+
+/* Pulsating animation */
+@keyframes pulsate {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.75;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes pulsing-shadow {
+  0% {
+    box-shadow: 0 0 0 0 rgba(48, 161, 255, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 15px 15px rgba(48, 161, 255, 0.1);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(48, 161, 255, 0.4);
+  }
+}
+
+.recording {
+  animation: pulsate 1s infinite, pulsing-shadow 1s infinite;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    height: auto;
+  }
+
+  .content {
+    flex-direction: column;
+    gap: 3rem;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .description {
+    align-items: center;
+  }
+}

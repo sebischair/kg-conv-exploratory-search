@@ -1,0 +1,225 @@
+[
+  {
+    "id": "bf43db92-52bc-42ac-842f-9e7ba1197f2a",
+    "data": [
+      {
+        "text": "Wie hilfst du mir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e28dda25-0cd7-4b2e-9d63-aec019b55251",
+    "data": [
+      {
+        "text": "Was kannst du für mich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e5a6998c-f15a-4e35-b71e-d96d36819cb1",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "weiß",
+        "userDefined": false
+      },
+      {
+        "text": " nicht, was ich fragen kann",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fc0468d0-19e0-432a-8a09-f1d83cbdb8c5",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Einführung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6d21f51a-de4c-4090-b1b8-756995296b2f",
+    "data": [
+      {
+        "text": "Bedienungsanleitung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b2ab2564-bd5e-4b66-a464-3001d5ec1153",
+    "data": [
+      {
+        "text": "Anleitung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "51715e72-6e17-4166-9705-185e472634e0",
+    "data": [
+      {
+        "text": "Hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "483cf35b-2ff5-4d8d-95c8-c6b9909b56f1",
+    "data": [
+      {
+        "text": "Wonach muss ich fragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "90ad655c-350c-4d89-a2a8-e6de3c22e71b",
+    "data": [
+      {
+        "text": "Was kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "sagen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3705ccd3-c20d-4f93-aff7-21e1cf020d15",
+    "data": [
+      {
+        "text": "Wie spreche ich mit dir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8b559516-ce74-4539-bd83-5a2329b9bbc9",
+    "data": [
+      {
+        "text": "Was muss ich machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "050087dd-c754-4a5f-ba8d-f9c059a5f18c",
+    "data": [
+      {
+        "text": "Was kann ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "84f2bf9a-feaf-4ca4-b21e-2b711ede2870",
+    "data": [
+      {
+        "text": "Was kann ich dich fragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fc747115-2c37-4c05-88ff-a1035af38dac",
+    "data": [
+      {
+        "text": "Was kannst du alles?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7dcc0aac-5068-4b9c-9afa-4fe13962b89c",
+    "data": [
+      {
+        "text": "Ich brauche Hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

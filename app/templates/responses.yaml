@@ -1,0 +1,46 @@
+# Yaml file with response templates for handler functions
+
+welcome:
+  - Hallo! Du kannst mich nach den aktuellen Nachrichten fragen. Sage zum Beispiel "Was sind die aktuellen Nachrichten?".  Außerdem kannst Du jederzeit nach Hilfe fragen, sage einfach "Hilfe".
+
+news_search:
+  - <speak> Für einen aktuellen Tagesüberblick sage Überblick oder sage <break time="400ms"/> Nachrichten über bestimmtes Thema. </speak>
+
+news_overview_search_first:
+  - <speak> <p><s>Hier ein kurzer Tagesüberblick.</s></p> <break time="600ms"/> <p>
+
+news_suggestion_search_first:
+  - <speak> <p><s>Okay!</s> <break time="600ms"/>
+
+news_ressort_list_first:
+  - <speak><p><s>Ich habe Nachrichten unter anderem in den Kategorien <break time="400ms"/>
+
+news_ressort_list_last:
+  - <break time="500ms"/> </s><s> Sage zum Beispiel, Nachrichten aus Kategorie inland <break time="350ms"/> oder Nachrichten über {{ entity }}. </s></p> </speak>
+
+news_article_selection_nudging:
+  - </p> <p><s>Für einen der Artikel sage beispielsweise, lies mir den zweiten Artikel vor oder für weitere Vorschläge, sage weitere Vorschläge.</s></p> </speak>
+
+help:
+  - Du kannst jederzeit die Sprachausgabe unterbrechen, wenn du erneut auf das Symbol drückst. Ansonsten kannst du nach einem aktuellen Tagesüberblick fragen oder nach Nachrichten über ein bestimmtes Thema, wie zum Beispiel Olaf Scholz. Wenn du dir einen der Artikel vorlesen lässt, kannst du den nächsten Artikel mit „Nächsten“ auswählen, den vorherigen mit „Vorherigen“ und den aktuellen Artikel wiederholen mit „Wiederholen“. Brauchst du weitere Hilfe?
+
+help_yes:
+  - Alles klar. Für Nachrichten über ein bestimmtes Thema sage „Nachrichten über Olaf Scholz“. Du kannst mich auch einfach fragen „Was für Nachrichten hast du?“
+
+help_no:
+  - Alles klar. Wenn du noch mal Hilfe brauchst. Dann sag einfach, ich brauche Hilfe.
+
+selection_last:
+  - Sie sind bei dem letzten Artikel Ihrer Auswahl angekommen. Bitte Fragen Sie nach weiteren Nachrichten oder wiederholen Sie den Artikel mit "Wiederholen" oder springen Sie zum vorherigen Artikel mit "Zurück".
+
+selection_first:
+  - Sie haben bereits den ersten Artikel aus der Auswahl ausgewählt. Für den nächsten Artikel, sagen Sie "Nächsten". Um den Artikel zu Wiederholen "Wiederholen".
+
+selection_clarify:
+  - Können Sie das noch mal genauer sagen?
+
+yes_no:
+  - Für einen dieser Artikel sage zum Beispiel, Lies mir den zweiten Artikel vor. Für weitere Vorschläge sage zum Beispiel Weitere Vorschläge. Oder für Nachrichten über ein bestimmtes Thema sage zum Beispiel Sag mir Nachrichten über Olaf Scholz.
+
+stop:
+  - Natürlich

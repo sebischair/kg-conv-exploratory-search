@@ -1,0 +1,261 @@
+[
+  {
+    "id": "6d0b043c-6d49-4773-a4f6-bb4022c726ff",
+    "data": [
+      {
+        "text": "Aktuellen Inhalt erneut öffnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fba3facc-5d0c-4cae-a2ff-3ef2384a1cf2",
+    "data": [
+      {
+        "text": "Wiederhole den Inhalt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2defedae-c5e5-45d5-ac06-ff49aae4c832",
+    "data": [
+      {
+        "text": "Inhalt nochmals lesen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "29fe6805-f605-41a6-920c-d97da13acbad",
+    "data": [
+      {
+        "text": "Inhalt erneut anzeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "163ad81f-cb56-4159-92e1-c212474a5496",
+    "data": [
+      {
+        "text": "Inhalt wiederholen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b8763664-5310-4ed2-8fe0-23180e36f994",
+    "data": [
+      {
+        "text": "Zeige diesen Artikel noch einmal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "53766994-587b-451f-b862-873a6ae28d63",
+    "data": [
+      {
+        "text": "Wiederhole den aktuellen Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c839bed6-4939-4b9c-9604-57f3e48bcdbd",
+    "data": [
+      {
+        "text": "Artikel nochmals lesen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ac552f74-83dc-4579-89bf-eb62c2021f33",
+    "data": [
+      {
+        "text": "Artikel nochmals anzeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "53927253-1dca-4f2c-8afa-be949438b387",
+    "data": [
+      {
+        "text": "Aktuellen Artikel erneut öffnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cac65d41-84ab-4bb7-a6f1-e038c06963a9",
+    "data": [
+      {
+        "text": "Diesen Artikel wiederholen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "933e6437-4118-47d8-8b97-89f9af70eb6a",
+    "data": [
+      {
+        "text": "Artikel erneut lesen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ce80f1db-f526-49c0-8447-bb0836c7970a",
+    "data": [
+      {
+        "text": "Zeige den aktuellen Artikel erneut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "73f3e355-fc93-482b-9922-b3bd7349b688",
+    "data": [
+      {
+        "text": "Artikel noch einmal anzeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a868da15-7862-47dd-a83f-ed0c52c06b22",
+    "data": [
+      {
+        "text": "Aktuellen Artikel wiederholen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ad77394f-ef6f-4984-9262-1a59f1e280bc",
+    "data": [
+      {
+        "text": "Kannst du den Artikel nochmal ",
+        "userDefined": false
+      },
+      {
+        "text": "lesen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8d38707c-f2fe-4c96-a5a4-0d9699e8492e",
+    "data": [
+      {
+        "text": "nochmal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2e4f2d70-9075-4446-9a9b-40fef8dc18df",
+    "data": [
+      {
+        "text": "Noch",
+        "userDefined": false
+      },
+      {
+        "text": " mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f8d1b128-0570-4d1d-b76f-bbdef9788082",
+    "data": [
+      {
+        "text": "Wiederholen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

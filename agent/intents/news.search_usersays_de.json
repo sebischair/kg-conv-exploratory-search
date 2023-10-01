@@ -1,0 +1,359 @@
+[
+  {
+    "id": "953aa887-1296-4656-8a34-249d64cb6579",
+    "data": [
+      {
+        "text": "Was gibts neues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "576ec1ed-b548-4fb6-8d2d-85a9547873bc",
+    "data": [
+      {
+        "text": "Was sind aktuelle Neuigkeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "07aae176-4647-4c09-8c82-347896351bce",
+    "data": [
+      {
+        "text": "was gibt\u0027s Neues in den Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6e34e587-553e-40d0-912b-b02ccc70c14f",
+    "data": [
+      {
+        "text": "Was sind die aktuellen Nachrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "498f4601-459d-4c9a-9947-db4a3d9169cc",
+    "data": [
+      {
+        "text": "Tagesnachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e7705247-bfe1-40ae-8876-2ee2d43dc76e",
+    "data": [
+      {
+        "text": "Nachrichten Meldungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a047787c-d573-4972-97d4-9b5c30f2b556",
+    "data": [
+      {
+        "text": "Bitte lies mir Nachrichten vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "730a16d1-ac9f-447a-806d-3347b1555f0d",
+    "data": [
+      {
+        "text": "Gib mir Tagesnachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "67c1cd29-ae79-4589-a336-3f5aae2974e4",
+    "data": [
+      {
+        "text": "Erzähle mir die ",
+        "userDefined": false
+      },
+      {
+        "text": "heutigen",
+        "userDefined": false
+      },
+      {
+        "text": " Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "32e2c7dc-fdb9-480a-bdca-266fde578a68",
+    "data": [
+      {
+        "text": "Kann ich Nachrichten haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bb60b9af-716e-4268-9494-9414a2587e81",
+    "data": [
+      {
+        "text": "Nachrichten Update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cdfbfefc-e8c6-4b85-9f7a-feb929592e1b",
+    "data": [
+      {
+        "text": "Lies die News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6c50e91e-6175-4821-b1e4-85325c624fb9",
+    "data": [
+      {
+        "text": "Zeig",
+        "userDefined": false
+      },
+      {
+        "text": " mir die neusten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f396f839-a1ab-444d-8451-909e9921fdc6",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "userDefined": false
+      },
+      {
+        "text": " Nachrichten hören",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "60926741-68d7-40ac-b3b5-5394d14913c9",
+    "data": [
+      {
+        "text": "Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "443f4e9b-14b4-4cb5-84b6-1c98663203a3",
+    "data": [
+      {
+        "text": "Neuigkeiten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "70397c02-2aef-476a-8ee5-44f8f9edd151",
+    "data": [
+      {
+        "text": "Lies mir die Meldungen von ",
+        "userDefined": false
+      },
+      {
+        "text": "gestern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e986b405-511c-47b6-8bfd-7cdbabbb7446",
+    "data": [
+      {
+        "text": "Besten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f6ea0bdd-0efc-4751-9b3f-5880f50a771b",
+    "data": [
+      {
+        "text": "Lies mir die neuesten News vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "66822878-ff75-41e5-814c-e0f7c40f82c1",
+    "data": [
+      {
+        "text": "Sag mir die Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d71287f4-b8c5-4bef-bc0c-675e1d67426d",
+    "data": [
+      {
+        "text": "Lies mir die neuesten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fd3b4721-c09f-4401-a9eb-c635efbc7305",
+    "data": [
+      {
+        "text": "Was sind die Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "78c00482-5fbb-4f97-acf9-2bbc41bc69e1",
+    "data": [
+      {
+        "text": "Gibt es neuigkeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "78b1a7bb-55ef-46df-9b2e-c2f5bd682ff0",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir die neusten Meldungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dce783c7-2a64-41dd-8d62-5b1cc99f5438",
+    "data": [
+      {
+        "text": "Nachrichten von ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

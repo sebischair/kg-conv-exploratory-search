@@ -1,0 +1,340 @@
+[
+  {
+    "id": "d968b027-2696-4253-8a87-0e642e1009dd",
+    "data": [
+      {
+        "text": "Nächster, bitte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4cd43f96-a511-433b-818f-5155c80c5ffe",
+    "data": [
+      {
+        "text": "Nächsten bitte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cb07de0e-67e4-4c4f-a1e8-0b3d6d676990",
+    "data": [
+      {
+        "text": "Artikel weiter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9ed5a6d5-822d-4f51-a483-67253e9e5a15",
+    "data": [
+      {
+        "text": "Zum Nächsten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b7f8642d-29ee-4ab4-bdf7-68c3c6374c52",
+    "data": [
+      {
+        "text": "Nächsten anzeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ee9a1284-7504-4773-a942-2bcd64c28f29",
+    "data": [
+      {
+        "text": "Überspringen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f21ce890-5c3a-4af8-8462-bf84cb3a71c1",
+    "data": [
+      {
+        "text": "Artikel wechseln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "325f435b-6e23-4f3c-ac7e-a8c33fa0de64",
+    "data": [
+      {
+        "text": "Weiter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d90a530b-a921-4249-aff9-ef9f19df50b5",
+    "data": [
+      {
+        "text": "Nächster Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d5438f54-878c-4d36-b93f-f7715cf0f875",
+    "data": [
+      {
+        "text": "Artikel überspringen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b7b5851f-53e0-4473-8ce0-649bcf33592e",
+    "data": [
+      {
+        "text": "Weiter zum nächsten Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c2c92e65-9c25-4acc-97d9-bfe8c9f30e7f",
+    "data": [
+      {
+        "text": "Zeige mir den Artikel nach diesem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fbffe0c8-b5ef-4898-82ce-d1aa3c5a9644",
+    "data": [
+      {
+        "text": "Nächster Artikel anzeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "265ec32b-f76e-43ee-aa7b-4d142b581a1e",
+    "data": [
+      {
+        "text": "Aktuellen Artikel überspringen, bitte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "90177be0-219b-4063-a142-98c658d01465",
+    "data": [
+      {
+        "text": "Artikel überspringen und zum nächsten gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "93579d75-509a-434c-938d-75f5f2dbfeea",
+    "data": [
+      {
+        "text": "Ich möchte diesen Artikel überspringen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8baaaf50-2fc7-47f4-9db0-a775085cac53",
+    "data": [
+      {
+        "text": "Zum nächsten Artikel wechseln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "704ce6e0-e225-439c-822a-52833783d0fc",
+    "data": [
+      {
+        "text": "Zeige mir den nächsten Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9439a3c9-a932-44a5-898e-5c3a44ecf555",
+    "data": [
+      {
+        "text": "Nächster Artikel bitte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2f598e70-fc09-4938-b5a1-2ce0b36c7a76",
+    "data": [
+      {
+        "text": "Den aktuellen Artikel überspringen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8d65fcdf-96d2-4f5b-b324-9b5bc37cdeac",
+    "data": [
+      {
+        "text": "Nachricht danach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "53c43a8b-3cc4-4caa-9eaa-8b0bf2a7645d",
+    "data": [
+      {
+        "text": "Artikel danach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fa1c38e0-638e-487d-8025-1fd5c372abce",
+    "data": [
+      {
+        "text": "Den Nächsten Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "358cf8a1-2b5e-441d-8364-ca3b398cfc24",
+    "data": [
+      {
+        "text": "Den Nächsten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9814be89-2318-4c64-9e23-52d5c889eda5",
+    "data": [
+      {
+        "text": "Nächste Nachricht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8f57de5c-fa0b-42d1-a899-5c89242f71df",
+    "data": [
+      {
+        "text": "Nächster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

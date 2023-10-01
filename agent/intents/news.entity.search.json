@@ -1,0 +1,59 @@
+{
+  "id": "7b54e622-7ac8-4773-96df-895519501109",
+  "name": "news.entity.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "newsentitysearch-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Select",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7ec943ba-0c74-4956-8941-09a26f4ef5f7",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Ich konnte leider keine aktuellen Nachrichten dazu finden. Bitte fragen Sie nach einem anderen Thema!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

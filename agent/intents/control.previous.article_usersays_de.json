@@ -1,0 +1,262 @@
+[
+  {
+    "id": "7ebe4181-3c30-43fe-aec7-4f72db677dce",
+    "data": [
+      {
+        "text": "Letzten Artikel anzeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "66988f81-c41b-451a-96d3-ddd92284f144",
+    "data": [
+      {
+        "text": "Zurück zum Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3d248224-8400-4731-ac93-3482be645843",
+    "data": [
+      {
+        "text": "Zeige den Artikel davor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fcaba355-95f6-42e0-98ad-e179e24a540b",
+    "data": [
+      {
+        "text": "Inhalt zurück",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "afaa7520-ab28-4ea5-8b95-592e733aab31",
+    "data": [
+      {
+        "text": "Vorheriger Inhalt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1b4dad4e-4e43-4abe-ba9c-e46eb7968292",
+    "data": [
+      {
+        "text": "Artikel zurückgehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "50dd3414-3f28-4e1f-9a31-255ca3dace3d",
+    "data": [
+      {
+        "text": "Zum letzten Artikel wechseln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "74b364be-5530-44c3-86f6-f04abf4c29be",
+    "data": [
+      {
+        "text": "Letzter Artikel, bitte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "19c8cc14-ff71-483d-94b3-0d73553a037f",
+    "data": [
+      {
+        "text": "Zurück zum letzten Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4db832b3-d352-4750-97cb-697eef9e7c2c",
+    "data": [
+      {
+        "text": "Artikel zurück",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "07180ed7-10fc-4f44-aa59-e1fefaec9310",
+    "data": [
+      {
+        "text": "Vorherigen Artikel anzeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "052c3d8b-04a2-4708-baac-5422d2cfb9ba",
+    "data": [
+      {
+        "text": "Zeige mir den vorherigen Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8889b374-7986-42bf-aa30-280abeeaa4cc",
+    "data": [
+      {
+        "text": "Zum vorherigen Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "efbda4c6-29e5-4c08-8132-c282d26ab32b",
+    "data": [
+      {
+        "text": "Vorheriger Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1eabfe7e-0043-4f74-a0d6-7171dac28810",
+    "data": [
+      {
+        "text": "Zurück",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2d80b309-c9a9-420f-8713-4d6f71a2b4d3",
+    "data": [
+      {
+        "text": "Davor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7f9c8ba3-1930-49e5-9405-ce5775660177",
+    "data": [
+      {
+        "text": "Nachricht davor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bb688668-3c83-40ba-b28b-ffdb32a31fe9",
+    "data": [
+      {
+        "text": "Vorherige Nachricht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e7ef9b28-6edd-4ed1-b8bd-5d209a71f039",
+    "data": [
+      {
+        "text": "Vorherigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e88e2ae6-ed57-4876-9016-e48a7a921d9a",
+    "data": [
+      {
+        "text": "Vorherigen Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

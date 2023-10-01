@@ -1,0 +1,9 @@
+{
+  "id": "fd0f3fbb-cacf-4a63-8155-d0a78e628a1f",
+  "name": "ressort",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

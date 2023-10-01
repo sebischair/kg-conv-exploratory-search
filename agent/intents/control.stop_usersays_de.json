@@ -1,0 +1,87 @@
+[
+  {
+    "id": "54af8b57-54a6-43d1-9377-c9bdf83cd136",
+    "data": [
+      {
+        "text": "Stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cedee0ee-f801-4e00-ba7d-17eb76ffccf7",
+    "data": [
+      {
+        "text": "Es ",
+        "userDefined": false
+      },
+      {
+        "text": "reicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3ae3c391-e12f-4b7d-b9f4-e46d0d5911fa",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nicht",
+        "userDefined": false
+      },
+      {
+        "text": " mehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "58e8a3d9-7c99-4e0a-82a9-a64125a861bd",
+    "data": [
+      {
+        "text": "Aufhören",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "31ec9d3d-6bc0-4e2c-aa7d-d01951e27673",
+    "data": [
+      {
+        "text": "Stopp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "1f12d1f6-1181-47f7-acbd-0fe2a3f235de",
+    "data": [
+      {
+        "text": "Was für Neuigkeiten hast du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "82561101-6771-4dd7-83f4-fef9f62334ff",
+    "data": [
+      {
+        "text": "Was für Artikel hast du",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "df13caf3-28ab-446c-bb66-9598e0b8cbae",
+    "data": [
+      {
+        "text": "Nachrichten über Thema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5b5e26d9-fa19-4c3f-b40b-d187ae68eb5f",
+    "data": [
+      {
+        "text": "Nachrichten über bestimmtes Thema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "21c3458c-b395-4a39-bbf3-ef2ca7eee968",
+    "data": [
+      {
+        "text": "Nachrichten aus bestimmten Thema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b35948d0-c443-4564-99c1-ab74029c0d4a",
+    "data": [
+      {
+        "text": "Bestimmtes Thema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "87001a11-1e2a-4164-8aa7-d73fdcfe1a34",
+    "data": [
+      {
+        "text": "Was für Kategorien hast du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a4c7e866-2699-411a-968d-ceb0a474bdc9",
+    "data": [
+      {
+        "text": "Nachrichten aus bestimmtem ",
+        "userDefined": false
+      },
+      {
+        "text": "Resort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "55456c75-c7ff-491f-bfde-30617ef6c1c0",
+    "data": [
+      {
+        "text": "Bestimmte Kategorie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ada90d3a-9a7e-43d8-8d68-68e553eea379",
+    "data": [
+      {
+        "text": "Bestimmtes ",
+        "userDefined": false
+      },
+      {
+        "text": "Resort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0089e449-2514-4a35-ad6d-56d566589d71",
+    "data": [
+      {
+        "text": "Aus ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Sparte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "29195b5e-bc5b-4b24-b356-39738b1ce9fa",
+    "data": [
+      {
+        "text": "Ein",
+        "userDefined": false
+      },
+      {
+        "text": " bestimmter Bereich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "199ec9fa-55c4-4f5a-aca8-d38848ad2745",
+    "data": [
+      {
+        "text": "Nachrichten aus ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " bestimmten Domäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9ec32c4c-02d0-403f-81e2-fbeac3adb269",
+    "data": [
+      {
+        "text": "Was sind Nachrichten Arten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "786a58e6-d84f-44b0-a9cd-654f537aa1f8",
+    "data": [
+      {
+        "text": "Welche Sachbereiche kennst du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c4402544-5208-4e54-ac7c-fcc5c4851771",
+    "data": [
+      {
+        "text": "Bestimmtes Ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "67b6a7ce-833e-4c04-b120-c79a87edadd3",
+    "data": [
+      {
+        "text": "Was sind die einzelnen Sparten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2bcc22d8-a974-419a-9f75-23e74a16d972",
+    "data": [
+      {
+        "text": "Was sind die Bereiche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7d47f0e1-57b9-4216-865d-269cb869c530",
+    "data": [
+      {
+        "text": "Was sind die Ressorts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bc23c40f-887d-4994-a97b-8cdc32173201",
+    "data": [
+      {
+        "text": "Aus bestimmten Ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "439f0a45-ec02-43c7-9268-101ca7369613",
+    "data": [
+      {
+        "text": "Nachrichten aus ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "userDefined": false
+      },
+      {
+        "text": " Ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "64ab0365-f072-4916-9c18-6d4b14e3addf",
+    "data": [
+      {
+        "text": "Ich möchte Nachrichten aus ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "userDefined": false
+      },
+      {
+        "text": " bestimmten Ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "60aed544-3ced-4a5c-b9ae-76936032e203",
+    "data": [
+      {
+        "text": "Welche Ressorts hast du aktuell?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f1223e93-9b08-4e10-88a0-5b0d31178a02",
+    "data": [
+      {
+        "text": "Kannst du mir alle Nachrichtenarten auflisten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "81e4f995-c7d4-4fb9-a3ce-7686be51f35d",
+    "data": [
+      {
+        "text": "Über welche Themen hast du Neuigkeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "439ad5e3-60c9-4a9f-9327-8e78f92014fd",
+    "data": [
+      {
+        "text": "In welchen Bereichen hast du Nachrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a78446e1-27a6-4181-8f98-5589ac327c40",
+    "data": [
+      {
+        "text": "Was hast du für Ressorts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ab55a14d-bfe8-4d14-ad1c-b2abc03e8d6f",
+    "data": [
+      {
+        "text": "Welche Nachrichten Kategorien hast du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "b5922ea4-c6ce-4325-980e-95457310b363",
+  "name": "news.select.article.by.number",
+  "auto": true,
+  "contexts": [
+    "Select"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "newsressortsearch.newsressortsearch-selectnumber",
+      "affectedContexts": [
+        {
+          "name": "control",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "77f68ae8-56c2-4f8a-957a-48bceb09f16b",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

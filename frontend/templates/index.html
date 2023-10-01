@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Basic meta tags for character encoding, compatibility, and viewport settings -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Link to the stylesheet and favicon -->
+    <link rel="stylesheet" href="{{url_for('static', filename='main.css')}}" />
+    <link
+      rel="icon"
+      href="{{url_for('static', filename='favicon.ico')}}"
+      type="image/x-icon"
+    />
+
+    <!-- Page title -->
+    <title>News Agent</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <!-- Description section -->
+        <div class="description">
+          <!-- Header and intro text -->
+          <div>
+            <h1>Nutzerstudie: sprachbasierte Nachrichtensuche</h1>
+            <p class="text">
+              Vielen Dank für Ihre Teilnahme an dieser Nutzerstudie. Bitte
+              folgen Sie den drei nachfolgenden Schritten.
+            </p>
+          </div>
+          <!-- Step 1: Consent form -->
+          <div class="step">
+            <span class="number">1</span>
+            <p class="title">Einverständniserklärung</p>
+            <p class="text">
+              Bitte füllen Sie als Erstes die Einverständniserklärung aus.
+            </p>
+            <a href="https://forms.gle/abc123" target="_blank">
+              Link zur Einverständniserklärung
+            </a>
+          </div>
+          <!-- Step 2: Test scenario -->
+          <div class="step">
+            <span class="number">2</span>
+            <p class="title">Testszenario (5-7 Minuten)</p>
+            <p class="text">
+              Sie können hier einen Agenten zur sprachgesteuerten Suche nach
+              Tagesnachrichten testen. Der Agent kann Ihnen sowohl einen
+              Tagesüberblick geben als auch Nachrichten über ein bestimmtes Thema
+              heraussuchen. </br></br> Testen Sie den Agenten in einer möglichst
+              ruhigen Umgebung und achten Sie bitte darauf, laut und deutlich zu sprechen. Falls
+              der Agent, nachdem Sie fertig gesprochen haben, immer noch "Bitte
+              sprechen" anzeigt, wiederholen Sie bitte laut und deutlich Ihre Eingabe oder aktualisieren Sie die Seite. Damit der Agent optimal
+              funktioniert, benutzen Sie bitte den Browser Google Chrome. Falls der Agent auch nach dem Aktualisieren der Seite nicht reagiert, versuchen Sie es bitte später erneut.</br></br> Um direkt zu beginnen, drücken Sie auf das Mikrofonsymbol und
+              begrüßen Sie den Agenten mit einem "Hallo". Sie können jederzeit die Sprachausgabe unterbrechen und
+              einen neuen Sprachbefehl eingeben, indem Sie erneut auf das Mikrofonsymbol
+              drücken.
+            </p>
+          </div>
+          <!-- Step 3: Evaluation -->
+          <div class="step">
+            <span class="number">3</span>
+            <p class="title">Evaluation (3-4 Minuten)</p>
+            <p class="text">
+              Bitte füllen Sie am Ende noch den kurzen Evaluationsbogen aus.
+            </p>
+            <a href="https://forms.gle/abc123" target="_blank">
+              Link zum Evaluationsbogen
+            </a>
+          </div>
+        </div>
+        <!-- Agent section with microphone image and audio element -->
+        <div class="agent">
+          <img
+            src="{{url_for('static', filename='microphone.svg')}}"
+            alt="Microphone"
+            onclick="record()"
+          />
+          <p id="speak">Drücken um zu sprechen</p>
+          <audio id="audio" src=""></audio>
+        </div>
+      </div>
+    </div>
+    <!-- Import the "main.js" JavaScript file, which contains the functionality for the web application. -->
+    <script src="{{url_for('static', filename='main.js')}}"></script>
+  </body>
+</html>

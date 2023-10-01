@@ -1,0 +1,996 @@
+[
+  {
+    "id": "f11a7ccf-df64-4eff-aff5-58bdd72c6ab5",
+    "data": [
+      {
+        "text": "was gibt\u0027s Neues in ",
+        "userDefined": false
+      },
+      {
+        "text": "Europa",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9a3994af-97f9-4ac4-b0e7-50bf2329aded",
+    "data": [
+      {
+        "text": "was hast du zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5a615d30-b47e-49c3-a9d5-0c0e2db4cfa1",
+    "data": [
+      {
+        "text": "was gibt\u0027s Neues im ",
+        "userDefined": false
+      },
+      {
+        "text": "Fußball",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "08eeb811-f356-4e71-b26c-650295f9f450",
+    "data": [
+      {
+        "text": "Was gibts neues zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Panzerlieferungen an die Ukraine",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "edc21fa1-0acf-4640-8f80-307571e5fee2",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir Neuigkeiten zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Italien und ChatGPT",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ca992a60-1927-41ae-98b7-ae94bbb10121",
+    "data": [
+      {
+        "text": "Neuigkeiten zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Cannabis",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "488fd993-49a5-49ae-b7f9-88be234eaae2",
+    "data": [
+      {
+        "text": "Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Banken",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f9fddae6-a0b0-40bc-8778-8effa2ff7f3b",
+    "data": [
+      {
+        "text": "Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Elon Musk",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d0339a21-24ec-4b8f-ab7f-bdeb8371f93a",
+    "data": [
+      {
+        "text": "Was sind die Nachrichten in ",
+        "userDefined": false
+      },
+      {
+        "text": "den USA",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e198085b-e06b-47b6-be79-43e588e2e93b",
+    "data": [
+      {
+        "text": "Sag mir Nachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "die Türkei",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "973742ab-d020-4eda-a0a4-4f280a9cbb83",
+    "data": [
+      {
+        "text": "Ich hätte gerne Artikel zum Thema ",
+        "userDefined": false
+      },
+      {
+        "text": "Fußball",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "590be25e-6486-44b8-b3fb-8ada17feb1cf",
+    "data": [
+      {
+        "text": "Neuigkeiten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Banken",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "60b0bd05-42e7-4aef-958e-419540c54e5d",
+    "data": [
+      {
+        "text": "Nachrichten zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Krieg in Ukraine",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e94e7a14-1705-48d5-b6a9-e41aa3efcf4a",
+    "data": [
+      {
+        "text": "Nachrichten zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Ukrainekrieg",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9e10db0e-31c3-4aeb-b231-5f7862c8d9d4",
+    "data": [
+      {
+        "text": "Hi ",
+        "userDefined": false
+      },
+      {
+        "text": "gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir bitte Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Donald Trump",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ee274c45-af61-4c28-91c3-54ab302921e0",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir bitte Artikel zur ",
+        "userDefined": false
+      },
+      {
+        "text": "Ukraine",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "384da4f4-fadf-4d6a-9897-b535b9237859",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir weitere Nachrichten zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Inflation",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "db646435-8d4c-45ae-99f3-a323e7e7a5ea",
+    "data": [
+      {
+        "text": "Nachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Mark Zuckerberg",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6d76318c-85b0-46bc-9df8-f54af1614f33",
+    "data": [
+      {
+        "text": "Nachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Olaf Scholz",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5bbcce42-882e-4879-aaf1-1959f3fe7944",
+    "data": [
+      {
+        "text": "Erzähle mir das Neueste zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Konflikt",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Afghanistan",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "89db576c-07a1-4ed2-b186-55137b1c8191",
+    "data": [
+      {
+        "text": "Gibt es etwas zur ",
+        "userDefined": false
+      },
+      {
+        "text": "Inflation",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c48f2539-a1d9-4f95-9b47-1d020373debf",
+    "data": [
+      {
+        "text": "Was sind die Tagesnachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Elon Musk",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "02776ee8-221d-4156-8c7b-ed95caf80ecb",
+    "data": [
+      {
+        "text": "Gibt es etwas über den ",
+        "userDefined": false
+      },
+      {
+        "text": "FC Bayern",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "18bb8013-1200-4807-8649-dee888eb42e2",
+    "data": [
+      {
+        "text": "Wie steht es um ",
+        "userDefined": false
+      },
+      {
+        "text": "Annalena Baerbock",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c4b9a2c3-cc18-4762-af8a-d605d51acb56",
+    "data": [
+      {
+        "text": "Gib mir Nachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Russland",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "83833638-8210-49f8-9222-0c44b7b67bd2",
+    "data": [
+      {
+        "text": "Was gibt es neues über ",
+        "userDefined": false
+      },
+      {
+        "text": "Russland",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e65be3a9-acd8-4db7-8353-d99147ccde16",
+    "data": [
+      {
+        "text": "Kannst du mir aktuelle Nachrichten über die ",
+        "userDefined": false
+      },
+      {
+        "text": "Alpen",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sagen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9128ec1e-b988-428b-95e3-a032a27339bd",
+    "data": [
+      {
+        "text": "Nachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7c995de8-07e1-428a-b5aa-375204791472",
+    "data": [
+      {
+        "text": "Was passiert gerade in der Region ",
+        "userDefined": false
+      },
+      {
+        "text": "Palermo",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b7db93b6-9b75-4e4b-a818-0982475bb658",
+    "data": [
+      {
+        "text": "Neuigkeiten über den ",
+        "userDefined": false
+      },
+      {
+        "text": "Papst",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fc90fdda-afd1-402a-ab45-38579b32fad2",
+    "data": [
+      {
+        "text": "Was passiert gerade in ",
+        "userDefined": false
+      },
+      {
+        "text": "Köln",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "469832cc-2b58-403b-a7be-6928f60f68bb",
+    "data": [
+      {
+        "text": "Gibt es was neues über ",
+        "userDefined": false
+      },
+      {
+        "text": "Hamburg",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a19ab18d-d880-49f6-97ad-d02ed58d7494",
+    "data": [
+      {
+        "text": "Was gibt es neues über ",
+        "userDefined": false
+      },
+      {
+        "text": "Portugal",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "514fc616-022b-4f0a-827a-a9108fb78f10",
+    "data": [
+      {
+        "text": "Was gibt es neues aus ",
+        "userDefined": false
+      },
+      {
+        "text": "Polen",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f039b04a-9a39-4f6f-ac17-348939363e6e",
+    "data": [
+      {
+        "text": "Was sind die Neuigkeiten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Joe Biden",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fe14cea0-608e-42e4-9baf-2b5d4e84f2bb",
+    "data": [
+      {
+        "text": "Nachrichten aus der ",
+        "userDefined": false
+      },
+      {
+        "text": "Ukraine",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "392d861b-0fad-4314-9240-1f6c7311b5bc",
+    "data": [
+      {
+        "text": "Wie steht es mit den ",
+        "userDefined": false
+      },
+      {
+        "text": "Panzern an die Ukraine?",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "799f45aa-02de-47b7-b772-b4a94d74ae50",
+    "data": [
+      {
+        "text": "Was ist mit dem ",
+        "userDefined": false
+      },
+      {
+        "text": "Kriegsschiff",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " passiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6679a0d9-7fd0-40ba-9fca-cb2f0b753173",
+    "data": [
+      {
+        "text": "Gibt es aktuelle Nachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Telegram",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "22299634-a1b7-44cd-916b-8785696ac508",
+    "data": [
+      {
+        "text": "Gibt es was neues über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a0546dda-5a89-4821-81b8-2031bf2b668b",
+    "data": [
+      {
+        "text": "Wie sieht es in ",
+        "userDefined": false
+      },
+      {
+        "text": "Syrien",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fde9c8eb-1b0c-4622-81c6-c7f711c27423",
+    "data": [
+      {
+        "text": "Was ist gerade aktuell beim ",
+        "userDefined": false
+      },
+      {
+        "text": "Erdbeben",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " passiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "55d3eefd-ba45-49cd-932f-1e873bf8229a",
+    "data": [
+      {
+        "text": "Was gibt es neues über den ",
+        "userDefined": false
+      },
+      {
+        "text": "DAX",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "83cc34dc-f867-49e9-a5a1-a4d96f2f2f87",
+    "data": [
+      {
+        "text": "Sag mir was über ",
+        "userDefined": false
+      },
+      {
+        "text": "FC Schalke 04",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2c0714f0-0a2a-40eb-90c8-64040da2af79",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir news über ",
+        "userDefined": false
+      },
+      {
+        "text": "Schweden",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b618fdf4-dc43-4b12-adb1-52bcfa3bc2c8",
+    "data": [
+      {
+        "text": "Nachrichten über die Person ",
+        "userDefined": false
+      },
+      {
+        "text": "Donald Trump",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

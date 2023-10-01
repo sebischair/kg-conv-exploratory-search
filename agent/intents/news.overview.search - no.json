@@ -1,0 +1,36 @@
+{
+  "id": "67b1321d-c76d-44cb-a01f-0cd2a3a83fd8",
+  "parentId": "2243b8fe-4e98-4073-8dfb-9c4e2e21eacb",
+  "rootParentId": "2243b8fe-4e98-4073-8dfb-9c4e2e21eacb",
+  "name": "news.overview.search - no",
+  "auto": true,
+  "contexts": [
+    "newsoverviewsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "newsoverviewsearch.newsoverviewsearch-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "7aaaddb7-31e1-4859-96a7-0f25088e58f2",
+  "name": "news.category.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "newsressortsearch-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Select",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1dca743b-96e5-4c2e-97a1-115903270acd",
+          "name": "ressort",
+          "required": false,
+          "dataType": "@ressort",
+          "value": "$ressort",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Sofort"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

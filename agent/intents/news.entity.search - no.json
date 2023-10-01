@@ -1,0 +1,46 @@
+{
+  "id": "adbd0d76-fc64-4452-b432-8e72dc09a8ff",
+  "parentId": "7b54e622-7ac8-4773-96df-895519501109",
+  "rootParentId": "7b54e622-7ac8-4773-96df-895519501109",
+  "name": "news.entity.search - no",
+  "auto": true,
+  "contexts": [
+    "newsentitysearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "newsentitysearch.newsentitysearch-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Für einen dieser Artikel sage zum Beispiel: Lies mir den zweiten Artikel vor. Für weitere Vorschläge sage zum Beispiel: Weitere Vorschläge. Oder für Nachrichten aus einem anderen Bereich sage zum Beispiel: Sag mir Nachrichten über Elon Musk."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

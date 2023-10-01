@@ -1,0 +1,529 @@
+[
+  {
+    "id": "b65bb75d-4358-43ab-a33f-b6406aaf0cec",
+    "data": [
+      {
+        "text": "Lies mir den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "die Schmelze in der Antartktis",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0f54faf7-dafe-47f2-ac03-c9c8b2018d02",
+    "data": [
+      {
+        "text": "Den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Moskau",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " lesen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0860f399-3007-491c-8065-dc48d90d9aed",
+    "data": [
+      {
+        "text": "Lies mir den Artikel mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Ampel",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6b8549fe-8070-47b2-b9be-eef77b193690",
+    "data": [
+      {
+        "text": "Lies mir den mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Bayern",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4f30c1e8-aab2-48a5-9bd0-039877a35dec",
+    "data": [
+      {
+        "text": "Den Artikel mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Schweiz",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dd20e3cc-9bd1-4f81-b42e-976ba1960c3f",
+    "data": [
+      {
+        "text": "Mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Japan",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d00f8a42-7907-4ac3-8f56-c9270978416b",
+    "data": [
+      {
+        "text": "Erzähl mir den zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Bayern",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e7c264e6-6caa-4ec7-8009-78d5c0e70302",
+    "data": [
+      {
+        "text": "Erzähl mir den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Biden",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "69ef1140-c22a-4592-9264-497977240133",
+    "data": [
+      {
+        "text": "Den mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Banken",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8974e0ca-3ffa-456d-99a3-12e16481c2c0",
+    "data": [
+      {
+        "text": "Lies den über ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "41c723c2-d1bd-4c4d-b691-10f75bea9e76",
+    "data": [
+      {
+        "text": "Den zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Präsident",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " lesen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "74d804c0-a85e-4f74-8855-4e7a99eeaac9",
+    "data": [
+      {
+        "text": "Bitte den zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Frankreich",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "721ef1bf-65b3-4080-9675-6f693557e6dd",
+    "data": [
+      {
+        "text": "Lies mir den mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Protest",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "aba06096-1bb7-4757-be7e-6c92c6613d05",
+    "data": [
+      {
+        "text": "Lies den ",
+        "userDefined": false
+      },
+      {
+        "text": "Credit Suisse",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " Artikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "02604988-a12b-47dc-84f7-43735f89fd05",
+    "data": [
+      {
+        "text": "Lies mir den ",
+        "userDefined": false
+      },
+      {
+        "text": "EU",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " Artikel vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1ddb1ece-191b-4b52-8c44-1c071fa963c6",
+    "data": [
+      {
+        "text": "Lies mir den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Wildkatzen",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e5316272-561b-46aa-96cf-821cebbf0453",
+    "data": [
+      {
+        "text": "Artikel mit dem Thema ",
+        "userDefined": false
+      },
+      {
+        "text": "Klimaschutz",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f36dd03d-c9e4-4b49-b6e3-29f56a0c74bf",
+    "data": [
+      {
+        "text": "Bitte das zur ",
+        "userDefined": false
+      },
+      {
+        "text": "Inflation",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4f7ceccd-1e76-4f7d-91a0-6a6588b62877",
+    "data": [
+      {
+        "text": "Ich will den mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Thomas Müller",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " hören",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "941a98dc-a7d3-4c52-9dba-94afa09d45cc",
+    "data": [
+      {
+        "text": "Lies mir den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Nord Stream",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "af52a441-8f0e-43c1-a15f-71ae32868dba",
+    "data": [
+      {
+        "text": "Den Artikel mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Heizungen",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2fe84664-1409-450d-9046-bf7dea1cd012",
+    "data": [
+      {
+        "text": "Ich wähle den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3b46e679-56a4-46fa-9c7c-1fecbba7880c",
+    "data": [
+      {
+        "text": "Lies Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Klima",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d7821f81-515a-4b76-8a99-b36d5514266d",
+    "data": [
+      {
+        "text": "Den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "Olaf Scholz",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d2f25f24-da02-4155-be64-7f7d7dd20b3d",
+    "data": [
+      {
+        "text": "Lies mir den Artikel über ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

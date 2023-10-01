@@ -1,0 +1,589 @@
+[
+  {
+    "id": "65b1b8e7-edfe-4ac7-bd34-025b944d3be5",
+    "data": [
+      {
+        "text": "Was hast du zu Bereich ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9d8061e8-12ec-4ea1-b5b1-9eb8f9ef6840",
+    "data": [
+      {
+        "text": "Was gibts neues in Kategorie ",
+        "userDefined": false
+      },
+      {
+        "text": "Ausland",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1ba9a3d0-8183-4f39-b3e0-7b41920f44d4",
+    "data": [
+      {
+        "text": "Neuigkeiten aus Bereich ",
+        "userDefined": false
+      },
+      {
+        "text": "investigativ",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6559cb44-febc-4de1-9bd7-02e137a013b1",
+    "data": [
+      {
+        "text": "Nachrichten zu ",
+        "userDefined": false
+      },
+      {
+        "text": "investigativen",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": " Themen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e46ba6e7-3aea-4a59-894b-0eeaab3ae218",
+    "data": [
+      {
+        "text": "Nachrichten aus Kategorie ",
+        "userDefined": false
+      },
+      {
+        "text": "wirtschaft",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4cc1108f-7c8f-44e0-bbad-6c8e357b537e",
+    "data": [
+      {
+        "text": "Nachrichten über Bereich ",
+        "userDefined": false
+      },
+      {
+        "text": "Sport",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9081c37c-1859-4c3e-af7e-8202c86f26ea",
+    "data": [
+      {
+        "text": "Sport",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1b8e0a58-5dac-4b70-b203-d13b31e3bf09",
+    "data": [
+      {
+        "text": "Nachrichten aus ",
+        "userDefined": false
+      },
+      {
+        "text": "ausland",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "059367ce-7ddd-4ca3-b023-4e3bdd1ee44f",
+    "data": [
+      {
+        "text": "Wirtschaft",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "84e34812-76d1-4227-b321-ebdb85cfb5f9",
+    "data": [
+      {
+        "text": "Wissen",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8d09b427-b9a7-4fba-8946-b55ec40aed41",
+    "data": [
+      {
+        "text": "Bitte Nachrichten aus ",
+        "userDefined": false
+      },
+      {
+        "text": "wissen",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f7e8566f-ad77-40d4-b6aa-ab423091975d",
+    "data": [
+      {
+        "text": "Bereich ",
+        "userDefined": false
+      },
+      {
+        "text": "Wirtschaft",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "91e5b5fa-31e5-4a62-b75b-88fb95252572",
+    "data": [
+      {
+        "text": "Nachrichten über Kategorie ",
+        "userDefined": false
+      },
+      {
+        "text": "Wissen",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d62d5931-9e83-4425-aca5-c0836e36011b",
+    "data": [
+      {
+        "text": "Nachrichten aus Bereich ",
+        "userDefined": false
+      },
+      {
+        "text": "Wissen",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f3aed953-23d4-4892-b2a5-d69e5b8966fa",
+    "data": [
+      {
+        "text": "Nachrichten aus Resort ",
+        "userDefined": false
+      },
+      {
+        "text": "Ausland",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0cb8fabf-8051-4afb-93cd-4538bed2e876",
+    "data": [
+      {
+        "text": "Nachrichten aus Ressort ",
+        "userDefined": false
+      },
+      {
+        "text": "Inland",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "35c5f75d-6408-45fb-ad63-b72c06aad3ed",
+    "data": [
+      {
+        "text": "Bitte etwas zur ",
+        "userDefined": false
+      },
+      {
+        "text": "Privatwirtschaft",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8d247ab1-e71d-40d2-aadb-646ba65ed185",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir etwas über ",
+        "userDefined": false
+      },
+      {
+        "text": "Investigativjournalismus",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5b5beeb5-a7cb-4927-9f4c-8c75d904ca32",
+    "data": [
+      {
+        "text": "Mich interessiert ",
+        "userDefined": false
+      },
+      {
+        "text": "Forschung",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8f41b849-c573-42f2-b032-54ec6b93db5e",
+    "data": [
+      {
+        "text": "Möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "Wirtschaft",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": " nachrichten haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7238f003-d528-42e6-b01c-850daf9e56ba",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "inlands",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": " nachrichten haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ddaf04db-224b-4684-ba15-96bc55b45f5c",
+    "data": [
+      {
+        "text": "Kann ich nachrichten über ",
+        "userDefined": false
+      },
+      {
+        "text": "Sport",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": " haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c9f58437-bca9-4fd1-a823-01cd7feb8845",
+    "data": [
+      {
+        "text": "Wissens",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      },
+      {
+        "text": " Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "88dcff85-323e-4d89-afc0-b6bb2f14f3f9",
+    "data": [
+      {
+        "text": "Investigativ",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      },
+      {
+        "text": " Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "39651b38-3f9a-456b-8a24-323b3e112013",
+    "data": [
+      {
+        "text": "Nachrichten aus dem ",
+        "userDefined": false
+      },
+      {
+        "text": "Ausland",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6537643b-fe0b-402e-9b08-933ae915eacc",
+    "data": [
+      {
+        "text": "Neuste ",
+        "userDefined": false
+      },
+      {
+        "text": "Sport",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": false
+      },
+      {
+        "text": " Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "efdabcf8-179c-4535-8103-bbab7f168b61",
+    "data": [
+      {
+        "text": "Inland",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      },
+      {
+        "text": " Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c80ccf59-0812-4472-a7d2-d4ac4a938a1a",
+    "data": [
+      {
+        "text": "Was sind die ",
+        "userDefined": false
+      },
+      {
+        "text": "Wirtschaftsnachrichten",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "067b7794-6ac5-452b-a762-458257b8163a",
+    "data": [
+      {
+        "text": "Sag mir die neusten Nachrichten aus der ",
+        "userDefined": false
+      },
+      {
+        "text": "Wirtschaft",
+        "meta": "@ressort",
+        "alias": "ressort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "id": "ea059507-ba04-4181-bcc5-ec3ac23412f1",
+    "data": [
+      {
+        "text": "Weitere Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b7c93462-0418-47e4-8b75-2b8c016b4940",
+    "data": [
+      {
+        "text": "schlage etwas anderes vor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "213ac333-b3f7-4192-983c-1b9f272c27a3",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "userDefined": false
+      },
+      {
+        "text": " andere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "657fcd4f-03ec-4fd7-9e8c-eaf0eb377f0b",
+    "data": [
+      {
+        "text": "Gib",
+        "userDefined": false
+      },
+      {
+        "text": " mir etwas anderes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8bcc41ec-3c78-4e87-8a89-6fb1963d64d9",
+    "data": [
+      {
+        "text": "Mehr Vorschläge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "adabbbf6-df13-4384-96a9-870e43735253",
+    "data": [
+      {
+        "text": "Ich hätte gerne weitere Vorschläge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "58a5595c-530b-43f9-b6a9-a12f42f9c281",
+    "data": [
+      {
+        "text": "Weitere Vorschläge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4a378fce-1bb6-4644-8162-547ee470bed0",
+    "data": [
+      {
+        "text": "Suche nach anderen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ed358c77-7c6f-41e5-a171-5309c1d9b491",
+    "data": [
+      {
+        "text": "Noch mehr Vorschläge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fb1d2459-02e2-40be-87a2-6181a9a83d17",
+    "data": [
+      {
+        "text": "Kannst du mir noch mehr Artikel zeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dba96049-7fda-46f2-acb9-103556c92cba",
+    "data": [
+      {
+        "text": "Hast du noch weitere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "65bc9202-d158-4fa4-a53a-eed7820e2bcd",
+    "data": [
+      {
+        "text": "Will",
+        "userDefined": false
+      },
+      {
+        "text": " neue Artikel haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "18c6f49d-8b07-44a4-a400-f424d44a3220",
+    "data": [
+      {
+        "text": "Nein mich interessiert keiner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1ec49886-cba2-4182-926e-7c6160b6acef",
+    "data": [
+      {
+        "text": "hast du noch andere Artikel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "618ff730-bd74-4d9a-8a1f-6c3911a15d98",
+    "data": [
+      {
+        "text": "lieber nach anderen suchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

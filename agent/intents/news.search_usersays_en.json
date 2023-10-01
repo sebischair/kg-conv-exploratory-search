@@ -1,0 +1,188 @@
+[
+  {
+    "id": "e92911bf-0534-4277-b87f-8cb01b8c51f9",
+    "data": [
+      {
+        "text": "Nachrichten von heute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "786f1df4-a90d-4685-8115-7e42fb3fcc03",
+    "data": [
+      {
+        "text": "Gib mir die neusten Meldungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad4cf548-2c5c-4682-b181-140933cbc557",
+    "data": [
+      {
+        "text": "Gibt es neuigkeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e7cf25f-a1d8-438c-b765-736027dbc3bf",
+    "data": [
+      {
+        "text": "Was sind die Nachrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72591b2b-03f6-40fb-81aa-12b9e40ef404",
+    "data": [
+      {
+        "text": "Sag mir die Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb397289-7552-4391-bbb3-bde4a1fc109b",
+    "data": [
+      {
+        "text": "Lies mir die neusten News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de1df479-3029-4ff9-8bb6-352c04eeed31",
+    "data": [
+      {
+        "text": "Besten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d32a306-83e7-4bc2-aff6-dd487904efc0",
+    "data": [
+      {
+        "text": "Lies mir die Meldungen von gestern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f7047f1-2ba0-4ca5-b98c-36d3c65b38c5",
+    "data": [
+      {
+        "text": "Neuigkeiten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60c23709-2033-46fb-8986-dcff52ef1c3b",
+    "data": [
+      {
+        "text": "Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0feed0c-89c0-433e-bb3b-db1fda0f531a",
+    "data": [
+      {
+        "text": "Ich will Nachrichten hören",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4927be5a-240b-462c-a738-b69b24907b65",
+    "data": [
+      {
+        "text": "Zeig",
+        "userDefined": false
+      },
+      {
+        "text": " mir die neusten Nachrichten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cde6b47a-dd7e-429a-aa91-e873d6ee25a1",
+    "data": [
+      {
+        "text": "Lies die News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f82de4a6-2a54-4b0c-a9ed-0308c4b53984",
+    "data": [
+      {
+        "text": "Nachrichten update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "863d1914-033a-4b61-91f5-2d02e5ca66fd",
+  "name": "control.next.article",
+  "auto": true,
+  "contexts": [
+    "control"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "control",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
